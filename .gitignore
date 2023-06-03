@@ -1,0 +1,20 @@
+# Ignore build artifacts and dependencies
+/node_modules
+/hardhat.config.js
+/.env
+
+# Ignore Solidity compiler artifacts
+/artifacts
+/cache
+/.hardhat
+/.openzeppelin
+
+# Ignore local development network files
+/network
+
+# Ignore IDE-specific files
+/.vscode
+/.idea
+
+# Ignore compiled contract bytecode
+/contracts/*.json
