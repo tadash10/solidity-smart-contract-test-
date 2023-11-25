@@ -11,7 +11,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/my-contract.git
+    git clone https://github.com/tadash10/solidity-smart-contract-test-/tree/main
 
 Change into the project directory:
 
